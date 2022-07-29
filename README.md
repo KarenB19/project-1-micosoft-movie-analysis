@@ -32,11 +32,9 @@ Checking the information on the new dataframe complete_df, I then cleaned up the
 
 ![Top%2020%20Numvotes.png](/images/Top%2020%20Numvotes.png)
 
-![GitHub Logo](/images/github-logo.png)
+![Top%2020%20Domestic%20Gross.png](/images/Top%2020%20Domestic%20Gross.png)
 
-![Top%2020%20Domestic%20Gross.png](attachment:Top%2020%20Domestic%20Gross.png)
-
-![Top%2020%20Foreign%20Gross.png](attachment:Top%2020%20Foreign%20Gross.png)
+![Top%2020%20Foreign%20Gross.png](/images/Top%2020%20Foreign%20Gross.png)
 
 3 of the above graphs, Domestic Gross Sales, Foreign Gross Sales and Number of Votes clearly show that Adventure, Action and Sci-Fi combination are most successful in Domestic and Foreign Gross Sales and also in the average rating given. Its clear also to see that the adventure genre is popular across the board especially when elements of animation, action and or comedy are also included.
 
