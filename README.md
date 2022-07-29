@@ -30,7 +30,9 @@ Checking the information on the new dataframe complete_df, I then cleaned up the
 
 ## Results
 
-![Top%2020%20Numvotes.png](attachment:Top%2020%20Numvotes.png)
+![Top%2020%20Numvotes.png](/images/Top%2020%20Numvotes.png)
+
+![GitHub Logo](/images/github-logo.png)
 
 ![Top%2020%20Domestic%20Gross.png](attachment:Top%2020%20Domestic%20Gross.png)
 
