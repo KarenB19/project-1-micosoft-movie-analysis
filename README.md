@@ -53,6 +53,13 @@ Movies with the genre combination Action, Adventure & Sci-Fi topped the leaderbo
 Limitations-Could the same movie be classified into different genres by different audiences? Who classifies the genres for each movie? Can the classification of genres be improved to provide a more benchmark approach? Future analysis could include the movie classification ie PG, MA etc to see which audience the most successful movies were made for.
 
 
+## Repository Structure
 
+```
+├── data
+├── images
+├── README.md
+├── Movie_analysis_Presentation.pdf
+└── Movie_analysis.ipynb
 
 ```
